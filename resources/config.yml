@@ -1,0 +1,14 @@
+---
+server:
+  host: irc.freenode.net
+  port: 6667
+  nick: Ehryk_bot
+  alt_nick: Ehryk_bot
+  real_name: rubot
+  channels: "#resdat"
+  vhost: #leave blank if none
+  quit_message: powered by rubot
+  message_delay: 2 #in seconds
+
+function_character: "!"
+auth_list: Ehryk
