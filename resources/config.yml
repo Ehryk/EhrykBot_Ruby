@@ -2,8 +2,8 @@
 server:
   host: irc.freenode.net
   port: 6667
-  nick: Ehryk_bot
-  alt_nick: Ehryk_bot
+  nick: EhrykBot
+  alt_nick: Ehryk_Bot
   real_name: rubot
   channels: "#resdat"
   vhost: #leave blank if none
